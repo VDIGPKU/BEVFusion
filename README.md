@@ -131,6 +131,10 @@ git checkout dev_aug
 
 ```
 
+## License
+The project is only free for academic research purposes, but needs authorization for commerce. For commerce permission, please contact wyt@pku.edu.cn.
+
+
 ## Acknowlegement
 
 We sincerely thank the authors of [mmdetection3d](https://github.com/open-mmlab/mmdetection3d), [TransFusion](https://github.com/XuyangBai/TransFusion), [LSS](https://github.com/nv-tlabs/lift-splat-shoot), [CenterPoint](https://github.com/tianweiy/CenterPoint) for open sourcing their methods.
